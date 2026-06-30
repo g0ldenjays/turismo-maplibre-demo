@@ -1,5 +1,44 @@
-# Vue 3 + TypeScript + Vite
+# Turismo MapLibre Demo
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Demo web de turismo para Punta Arenas construido con Vue 3, TypeScript, Vite y MapLibre GL JS.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+La aplicación muestra tres lugares turísticos con:
+
+- mapa satelital interactivo;
+- marcador del punto turístico seleccionado;
+- marcador fijo de ubicación actual;
+- galería de fotos;
+- video del lugar;
+- tarjetas para cambiar entre lugares.
+
+
+## Requisitos
+
+- Node.js
+- npm
+
+## Instalación
+
+```bash
+npm install
+```
+
+## Ejecutar en desarrollo
+
+```bash
+npm run dev
+```
+
+Luego abrir la URL local que muestra Vite, normalmente:
+
+```text
+http://localhost:5173/
+```
+
+## Compilar para producción
+
+```bash
+npm run build
+```
+
+El resultado queda en la carpeta `dist/`.
