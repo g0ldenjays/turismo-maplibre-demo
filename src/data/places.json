@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Muelle Prat",
+    "location": "Punta Arenas, Chile",
+    "shortDescription": "Un punto histórico frente al Estrecho de Magallanes.",
+    "longDescription": "El Muelle Prat es uno de los lugares más reconocibles del borde costero de Punta Arenas. Desde aquí se puede observar el Estrecho de Magallanes, embarcaciones, aves marinas y parte importante de la identidad portuaria de la ciudad.",
+    "heroImage": "/places/muelle-prat/hero.webp",
+    "gallery": [
+      "/places/muelle-prat/1.webp",
+      "/places/muelle-prat/2.webp",
+      "/places/muelle-prat/3.webp"
+    ],
+    "videoUrl": "https://www.youtube.com/embed/vqvRsXg_D5U?si=AdmLU7QiGuNUph7v",
+    "coordinates": {
+      "lng": -70.909047,
+      "lat": -53.167312
+    }
+  },
+  {
+    "id": 2,
+    "name": "Cerro de la Cruz",
+    "location": "Punta Arenas, Chile",
+    "shortDescription": "Mirador panorámico de la ciudad y el estrecho.",
+    "longDescription": "El Cerro de la Cruz ofrece una de las vistas más clásicas de Punta Arenas. Desde este punto se puede apreciar el trazado urbano, los techos coloridos, el borde costero y la inmensidad del Estrecho de Magallanes.",
+    "heroImage": "/places/cerro-de-la-cruz/hero.png",
+    "gallery": [
+      "/places/cerro-de-la-cruz/1.webp",
+      "/places/cerro-de-la-cruz/2.webp",
+      "/places/cerro-de-la-cruz/3.webp"
+    ],
+    "videoUrl": "https://www.youtube.com/embed/Fkfqmb6m5o8?si=JzBGZCG0Ar63HK89",
+    "coordinates": {
+      "lng": -70.915765,
+      "lat": -53.16015
+    }
+  },
+  {
+    "id": 3,
+    "name": "Plaza Muñoz Gamero",
+    "location": "Punta Arenas, Chile",
+    "shortDescription": "El corazón urbano e histórico de la ciudad.",
+    "longDescription": "La Plaza Muñoz Gamero es uno de los espacios públicos más importantes de Punta Arenas. Alrededor de ella se encuentran edificios patrimoniales, monumentos y una parte relevante de la historia urbana de la región.",
+    "heroImage": "/places/plaza-munoz-gamero/hero.webp",
+    "gallery": [
+      "/places/plaza-munoz-gamero/1.webp",
+      "/places/plaza-munoz-gamero/2.webp",
+      "/places/plaza-munoz-gamero/3.webp"
+    ],
+    "videoUrl": "https://www.youtube.com/embed/cYQEy-h8jmo?si=Kbf9oPJi4cBCw86U",
+    "coordinates": {
+      "lng": -70.907968,
+      "lat": -53.162709
+    }
+  }
+]
